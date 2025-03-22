@@ -1,0 +1,1 @@
+An extended version of an short app to do the accounts of working minutes with an employer. I created some tabs and additional fields to add/subtract some minutes - sometimes we have to get going somewhere or do OT in a given month. This app was built in a longer period of time and can be developed but I decided to leave it as it is as it looks good to me:)
